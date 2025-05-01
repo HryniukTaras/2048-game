@@ -30,7 +30,7 @@ The game consists of two main parts:
 # How to run the project locally
 
 1. Clone the repository by running `git clone https://github.com/HryniukTaras/2048-game.git`
-2. Navigate to the project folder by running `cd js_2048_game`
+2. Navigate to the project folder by running `cd 2048-game`
 3. Install the dependencies by running `npm install` or `yarn install`
 4. This project was developed using **Node.js v20**. You can check your current version by running `node -v`.
 5. Run the project by running `npm start` or `yarn start`
